@@ -32,13 +32,16 @@
 "DefaultBrowserOnboarding.Description1" = "1. Μεταβείτε στις Ρυθμίσεις";
 
 /* Description for default browser onboarding card. */
-"DefaultBrowserOnboarding.Description2" = "2. Πατήστε \"Προεπιλεγμένο πρόγραμμα περιήγησης εφαρμογών\"";
+"DefaultBrowserOnboarding.Description2" = "2. Πατήστε «Προεπιλεγμένο πρόγραμμα περιήγησης εφαρμογών»";
 
 /* Description for default browser onboarding card. */
 "DefaultBrowserOnboarding.Description3" = "3. Επιλέξτε το Firefox";
 
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Προεπιλεγμένο πρόγραμμα περιήγησης εφαρμογών";
+
+/* Button title for deferring the default browser onboarding (skip setting Firefox as default for now). */
+"DefaultBrowserOnboarding.SkipButton" = "Θα το κάνω αργότερα";
 
 /* Menu option for setting Firefox as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Ορισμός ως προεπιλογή";
