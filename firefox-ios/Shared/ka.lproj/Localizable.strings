@@ -653,7 +653,7 @@
 "Logins.PasscodeRequirement.Warning" = "თვითშევსებით სარგებლობისთვის Firefox-ში, მოწყობილობაზე ჩართული უნდა იყოს შესვლის კოდი.";
 
 /* Label displaying welcome view tagline under the title */
-"Logins.WelcomeView.Tagline" = "თან წაიყოლეთ თქვენი პაროლები ყველგან";
+"Logins.WelcomeView.Tagline" = "თან გაიყოლეთ თქვენი პაროლები ყველგან";
 
 /* Label displaying welcome view title */
 "Logins.WelcomeView.Title2" = "პაროლების თვითშევსება Firefox-ში";
@@ -959,7 +959,7 @@
 "Remove" = "მოცილება";
 
 /* Name for button removing current article from reading list in reader mode */
-"Remove from Reading List" = "წასაკითხებიდან მოცილება";
+"Remove from Reading List" = "მოცილება წასაკითხებიდან";
 
 /* Cancel button text shown in reopen-alert at home page. */
 "ReopenAlert.Actions.Cancel" = "გაუქმება";
