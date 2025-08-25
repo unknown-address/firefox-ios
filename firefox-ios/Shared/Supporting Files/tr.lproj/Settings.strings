@@ -67,6 +67,9 @@
 /* Default section header title under page zoom settings. Indicates the default value for all websites */
 "Settings.Appearance.Zoom.Default.Title.v140" = "Varsayılan";
 
+/* Button to reset specific zoom site levels back to default */
+"Settings.Appearance.Zoom.Reset.Button.v140" = "Site ayarlarını sıfırla";
+
 /* Page zoom section header title in Appearance settings */
 "Settings.Appearance.Zoom.SectionHeader.v140" = "Yakınlaştırma ayarları";
 
@@ -230,7 +233,7 @@
 "Settings.Search.Suggest.ShowSponsoredSuggestions.Description.v124" = "Ara sıra görünecek sponsorlu önerilerle %@ tarayıcınızı destekleyin";
 
 /* In the Search page of the Settings menu, the title for the setting to enable Suggestions from sponsors. */
-"Settings.Search.Suggest.ShowSponsoredSuggestions.Title.v124" = "Sponsorlardan Öneriler";
+"Settings.Search.Suggest.ShowSponsoredSuggestions.Title.v124" = "Sponsorlardan öneriler";
 
 /* Title for a link that explains what Mozilla means by Studies */
 "Settings.Studies.Link.v136" = "Daha fazla bilgi alın";
