@@ -17,7 +17,7 @@
 "About" = "Hakkında";
 
 /* The title for the pinning a shortcut action */
-"ActivityStream.ContextMenu.AddToShortcuts" = "Kestirmelere ekle";
+"ActivityStream.ContextMenu.AddToShortcuts" = "Kısayollara ekle";
 
 /* The title for the pinning a topsite action */
 "ActivityStream.ContextMenu.PinTopsite2" = "Sabitle";
@@ -704,7 +704,7 @@
 "Menu.AddBookmark.Label.v99" = "Ekle";
 
 /* Toast displayed to the user after adding the item to the Shortcuts. */
-"Menu.AddPin.Confirm2" = "Kestirmelere eklendi";
+"Menu.AddPin.Confirm2" = "Kısayollara eklendi";
 
 /* Label for the add to reading list button in the menu. Pressing this button adds the current page to the reading list. Please keep the text as short as possible for this label. */
 "Menu.AddReadingList.Label.v99" = "Ekle";
@@ -959,7 +959,7 @@
 "Remove" = "Sil";
 
 /* Name for button removing current article from reading list in reader mode */
-"Remove from Reading List" = "Okuma listesinden sil";
+"Remove from Reading List" = "Okuma Listesi’nden kaldır";
 
 /* Cancel button text shown in reopen-alert at home page. */
 "ReopenAlert.Actions.Cancel" = "İptal";
