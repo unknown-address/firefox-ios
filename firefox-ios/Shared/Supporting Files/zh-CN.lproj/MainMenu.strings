@@ -16,8 +16,14 @@
 /* The accessibility label for the sign in button in the Main menu header view. */
 "MainMenu.Account.AccessibilityLabels.MainButton.v132" = "登录以同步密码、标签页等数据";
 
+/* On the main menu, when the user is signed in. */
+"MainMenu.Account.SignedIn.Description.v141" = "管理备份和同步的内容";
+
 /* On the main menu, at the top, when the user is signed out. The description for the sign in action */
 "MainMenu.Account.SignedOut.Description.v131" = "同步密码、标签页等数据";
+
+/* On the main menu, when the user is signed out. The description for the sign in action */
+"MainMenu.Account.SignedOut.Description.v141" = "同步书签、密码、标签页等数据";
 
 /* On the main menu, at the top, when the user is signed out. The title for the sign in action */
 "MainMenu.Account.SignedOut.Title.v131" = "登录";
@@ -47,7 +53,7 @@
 "MainMenu.PanelLinkSection.Downloads.Title.v131" = "下载";
 
 /* On the main menu, the title for the action that will take the user to the History panel. */
-"MainMenu.PanelLinkSection.History.Title.v131" = "历史记录";
+"MainMenu.PanelLinkSection.History.Title.v131" = "历史";
 
 /* On the main menu, the title for the action that will take the user to the Passwords panel in the settings screen. */
 "MainMenu.PanelLinkSection.Passwords.Title.v131" = "密码";
@@ -92,7 +98,7 @@
 "MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Subtitle.v132" = "添加书签";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to save a bookmark for this particular page.. */
-"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "为此页添加书签";
+"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "为此页面添加书签";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to edit the bookmark for this particular page. */
 "MainMenu.Submenus.Save.AccessibilityLabels.EditBookmark.Title.v132" = "编辑书签";
@@ -131,7 +137,7 @@
 "MainMenu.Submenus.Save.BookmarkThisPage.Subtitle.v131" = "添加书签";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to save a bookmark for this particular page.. */
-"MainMenu.Submenus.Save.BookmarkThisPage.Title.v131" = "为此页添加书签";
+"MainMenu.Submenus.Save.BookmarkThisPage.Title.v131" = "为此页面添加书签";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to edit the bookmark for this particular page. */
 "MainMenu.Submenus.Save.EditBookmark.Title.v131" = "编辑书签";
@@ -205,6 +211,9 @@
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Night Mode tool. */
 "MainMenu.Submenus.Tools.NightMode.Subtitle.v131" = "夜间模式";
 
+/* On the main menu, in the tools submenu, the title for the menu component that indicates the current page zoom level. %@ is the current zoom level percentage. */
+"MainMenu.Submenus.Tools.PageZoom.Title.v140" = "页面缩放（%@）";
+
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Report Print tool. */
 "MainMenu.Submenus.Tools.Print.Subtitle.v131" = "打印";
 
@@ -268,6 +277,12 @@
 /* On the main menu, the accessibility label for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.AccessibilityLabels.FindInPage.v132" = "页内查找";
 
+/* On the main menu, the accessibility label for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.LessOptions.v141" = "折叠";
+
+/* On the main menu, the accessibility label for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.MoreOptions.v141" = "更多";
+
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "保存";
 
@@ -288,6 +303,12 @@
 
 /* On the main menu, the title for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.FindInPage.Title.v131" = "页内查找…";
+
+/* On the main menu, the title for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.LessOptions.Title.v141" = "折叠";
+
+/* On the main menu, the title for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.MoreOptions.Title.v141" = "更多";
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "保存";
