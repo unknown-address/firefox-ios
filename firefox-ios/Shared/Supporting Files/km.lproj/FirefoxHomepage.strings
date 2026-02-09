@@ -1,0 +1,3 @@
+/* Accessibility label for shortcuts tile on the Firefox home page, indicating that the tile is a pinned tile. %@ is the title of the website. */
+"FirefoxHomepage.Shortcuts.Pinned.AccessibilityLabel.v139" = "បានខ្ទាស់៖ %@";
+

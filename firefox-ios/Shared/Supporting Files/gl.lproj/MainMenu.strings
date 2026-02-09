@@ -16,8 +16,14 @@
 /* The accessibility label for the sign in button in the Main menu header view. */
 "MainMenu.Account.AccessibilityLabels.MainButton.v132" = "Acceda para sincronizar contrasinais, lapelas e moito máis";
 
+/* On the main menu, when the user is signed in. */
+"MainMenu.Account.SignedIn.Description.v141" = "Xestiona o que respaldas e sincronizas";
+
 /* On the main menu, at the top, when the user is signed out. The description for the sign in action */
 "MainMenu.Account.SignedOut.Description.v131" = "Sincronizar contrasinais, pestanas e moito máis";
+
+/* On the main menu, when the user is signed out. The description for the sign in action */
+"MainMenu.Account.SignedOut.Description.v141" = "Sincroniza marcadores, contrasinais, pestanas e moito máis";
 
 /* On the main menu, at the top, when the user is signed out. The title for the sign in action */
 "MainMenu.Account.SignedOut.Title.v131" = "Identificarse";
@@ -205,6 +211,9 @@
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Night Mode tool. */
 "MainMenu.Submenus.Tools.NightMode.Subtitle.v131" = "Modo nocturno";
 
+/* On the main menu, in the tools submenu, the title for the menu component that indicates the current page zoom level. %@ is the current zoom level percentage. */
+"MainMenu.Submenus.Tools.PageZoom.Title.v140" = "Aumento da páxina (%@)";
+
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Report Print tool. */
 "MainMenu.Submenus.Tools.Print.Subtitle.v131" = "Imprimir";
 
@@ -232,6 +241,18 @@
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "Compartir";
 
+/* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
+"MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "Desactiva o modo escuro do sitio web";
+
+/* On the main menu, the title for the action that will turn Website's Dark Mode on in the application. */
+"MainMenu.Submenus.Tools.WebsiteDarkMode.On.Title.v137" = "Activa o modo escuro do sitio web";
+
+/* This string is for the Zoom tool, when Zoom value is negative. (-50%) */
+"MainMenu.Submenus.Tools.Zoom.NegativeSymbol.v137" = "-";
+
+/* This string is for the Zoom tool, when Zoom value is positive. (+125%) */
+"MainMenu.Submenus.Tools.Zoom.PositiveSymbol.v137" = "+";
+
 /* On the main menu, a string below the Tool submenu title, indicating what kind of tools are available in that menu. This string is for the Zoom tool. */
 "MainMenu.Submenus.Tools.Zoom.Subtitle.v131" = "Zoom";
 
@@ -256,6 +277,12 @@
 /* On the main menu, the accessibility label for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.AccessibilityLabels.FindInPage.v132" = "Atopar na páxina";
 
+/* On the main menu, the accessibility label for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.LessOptions.v141" = "Menos";
+
+/* On the main menu, the accessibility label for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.MoreOptions.v141" = "Máis";
+
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "Gardar";
 
@@ -276,6 +303,12 @@
 
 /* On the main menu, the title for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.FindInPage.Title.v131" = "Atopar na páxina…";
+
+/* On the main menu, the title for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.LessOptions.Title.v141" = "Menos";
+
+/* On the main menu, the title for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.MoreOptions.Title.v141" = "Máis";
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "Gardar";
