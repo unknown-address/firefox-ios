@@ -4,6 +4,9 @@
 /* Contextual hints are little popups that appear for the users informing them of new features. When a user opens the new menu design for the first time, this contextual hint appears. This is the title for the hint. */
 "ContextualHints.MainMenu.NewMenu.Title.v132" = "Ùr: clàr-taice nas taine";
 
+/* On the main menu, the accessibility label hint for any action/option inside the menu, that is disabled. For example: 'Save to Reading List' option, from Menu, in some cases is disabled and the voice over should indicate that. 'Save To Reading List dimmed' */
+"MainMenu.AccessibilityLabels.OptionDisabled.Hint.v133" = "Air a dhoilleireachadh";
+
 /* The accessibility label for the back button in the Main menu header navigation view. */
 "MainMenu.Account.AccessibilityLabels.BackButton.v132" = "Air ais";
 
@@ -13,8 +16,14 @@
 /* The accessibility label for the sign in button in the Main menu header view. */
 "MainMenu.Account.AccessibilityLabels.MainButton.v132" = "Clàraich a-steach a shioncronachadh fhaclan-faire, thabaichean is mòran a bharrachd";
 
+/* On the main menu, when the user is signed in. */
+"MainMenu.Account.SignedIn.Description.v141" = "Stiùirich na thèid lethbhreacan-glèidhidh a dhèanamh dheth ’s na thèid a shioncronachadh";
+
 /* On the main menu, at the top, when the user is signed out. The description for the sign in action */
 "MainMenu.Account.SignedOut.Description.v131" = "Sioncronaich faclan-faire, tabaichean is mòran a bharrachd";
+
+/* On the main menu, when the user is signed out. The description for the sign in action */
+"MainMenu.Account.SignedOut.Description.v141" = "Sioncronaich comharran-lìn, faclan-faire, tabaichean is mòran a bharrachd";
 
 /* On the main menu, at the top, when the user is signed out. The title for the sign in action */
 "MainMenu.Account.SignedOut.Title.v131" = "Clàraich a-steach";
@@ -220,11 +229,26 @@
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Report Broken Site tool. */
 "MainMenu.Submenus.Tools.ReportBrokenSite.Subtitle.v131" = "Dèan aithris";
 
+/* On the main menu, the title for the action that will take the user to the site where they can report a broken website to our web compatibility team. */
+"MainMenu.Submenus.Tools.ReportBrokenSite.Title.v133" = "Dèan aithris air làrach bhriste…";
+
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Report Share tool. */
 "MainMenu.Submenus.Tools.Share.Subtitle.v131" = "Co-roinn";
 
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "Co-roinn";
+
+/* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
+"MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "Cuir dheth modh dorcha nan làraichean-lìn";
+
+/* On the main menu, the title for the action that will turn Website's Dark Mode on in the application. */
+"MainMenu.Submenus.Tools.WebsiteDarkMode.On.Title.v137" = "Cuir air modh dorcha nan làraichean-lìn";
+
+/* This string is for the Zoom tool, when Zoom value is negative. (-50%) */
+"MainMenu.Submenus.Tools.Zoom.NegativeSymbol.v137" = "-";
+
+/* This string is for the Zoom tool, when Zoom value is positive. (+125%) */
+"MainMenu.Submenus.Tools.Zoom.PositiveSymbol.v137" = "+";
 
 /* On the main menu, a string below the Tool submenu title, indicating what kind of tools are available in that menu. This string is for the Zoom tool. */
 "MainMenu.Submenus.Tools.Zoom.Subtitle.v131" = "Sùm";
@@ -250,8 +274,17 @@
 /* On the main menu, the accessibility label for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.AccessibilityLabels.FindInPage.v132" = "Lorg air an duilleag";
 
+/* On the main menu, the accessibility label for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.LessOptions.v141" = "Nas lugha";
+
+/* On the main menu, the accessibility label for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.MoreOptions.v141" = "Barrachd";
+
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "Sàbhail";
+
+/* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
+"MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Sàbhail am fo-chlàr-taice";
 
 /* On the main menu, the accessibility label for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.SwitchToDesktopSite.v132" = "Seall an làrach desktop";
@@ -262,8 +295,17 @@
 /* On the main menu, the accessibility label for the action that will take the user to the Tools submenu in the menu. */
 "MainMenu.ToolsSection.AccessibilityLabels.Tools.v132" = "Innealan";
 
+/* On the main menu, the accessibility label for the action that will take the user to the Tools submenu in the menu. */
+"MainMenu.ToolsSection.AccessibilityLabels.Tools.v133" = "Fo-chlàr-taice nan innealan";
+
 /* On the main menu, the title for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.FindInPage.Title.v131" = "Lorg air an duilleag…";
+
+/* On the main menu, the title for the action that will hide some menu options in the current section of the menu. */
+"MainMenu.ToolsSection.LessOptions.Title.v141" = "Nas lugha";
+
+/* On the main menu, the title for the action that will show more menu options in the current section of the menu. */
+"MainMenu.ToolsSection.MoreOptions.Title.v141" = "Barrachd";
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "Sàbhail";
